@@ -1,5 +1,5 @@
 # anitasKitchen
-####A website for Anita's Kitchen
+#### A website for Anita's Kitchen
 ### By Dorcas Litunya
 ##  Description
 This website is created to give more details on Anita's kitchen and help customers to explore the variety foods that it offers.
