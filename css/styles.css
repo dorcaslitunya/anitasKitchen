@@ -4,7 +4,9 @@
   background-size: cover;
   height: 80vh;
   font-size: 300%;
-  font-family: serif
+  font-family: serif;
+  image-orientation:
+
 
 
 }
@@ -13,9 +15,14 @@
      margin right: 35%;
 }
 .col{
-  height: 30vh
+  height: 30vh;
 }
-.header2{
-  
-
+.img{
+  float: left
+}
+.test-box {
+  border: 2px solid #F2F0F7  ;
+  padding: 30px;
+  margin: 20px;
+  background-color: white;
 }
