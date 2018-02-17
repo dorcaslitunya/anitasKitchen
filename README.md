@@ -2,7 +2,7 @@
 #### A website for Anita's Kitchen
 ### By Dorcas Litunya
 ##  Description
-This website is created to give more details on Anita's kitchen and help customers to explore the variety foods that it offers.
+This website is created to give more details on Anita's kitchen and help customers to explore the variety foods that it offers.It can be accessed by visiting this page https://dorcaslitunya.github.io/anitasKitchen/
 
 ## Technologies Used
 This website was created using : HTML, Bootstrap version 3.3.7, Javascript and j Query version 3.3.1 .
