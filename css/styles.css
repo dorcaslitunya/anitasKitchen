@@ -18,7 +18,22 @@
   height: 30vh;
 }
 .img{
-  float: left
+  float: left;
+}
+.test-box {
+  border: 2px solid #F2F0F7  ;
+  padding: 30px;
+  margin: 20px;
+  background-color: white;
+}
+.text {
+  color: #464549;
+  font-family: fantasy;
+
+
+}
+p.text{
+  font-size: 18px
 }
 .test-box {
   border: 2px solid #F2F0F7  ;
