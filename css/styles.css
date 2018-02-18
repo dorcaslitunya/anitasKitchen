@@ -57,3 +57,16 @@ p.text2{
 }
 #sub {
   background-image: url(../img/backgrounds/foodsBg.jpg);
+}
+
+#burger{
+  float:right;
+}
+#food{
+  float: right;
+  align-self: center;
+
+}
+#eat{
+  float: right;
+}
