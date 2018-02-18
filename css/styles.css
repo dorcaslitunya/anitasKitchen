@@ -17,9 +17,6 @@
 .col{
   height: 30vh;
 }
-.img{
-  float: left;
-}
 .test-box {
   border: 2px solid #F2F0F7  ;
   padding: 30px;
@@ -38,6 +35,25 @@ p.text{
 .test-box {
   border: 2px solid #F2F0F7  ;
   padding: 30px;
-  margin: 20px;
+  margin: 40px;
   background-color: white;
 }
+.text2 {
+  color: #464549;
+  font-family: fantasy;
+
+
+
+}
+p.text2{
+  font-size: 18px
+}
+#drinks3{
+ float:right;
+ align-content: center;
+  }
+#texter{
+  float:left;
+}
+#sub {
+  background-image: url(../img/backgrounds/foodsBg.jpg);
