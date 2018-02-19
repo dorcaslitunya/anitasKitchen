@@ -1,0 +1,72 @@
+.header{
+  background-image: url(../img/backgrounds/landing.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  height: 80vh;
+  font-size: 300%;
+  font-family: serif;
+  image-orientation:
+
+
+
+}
+.col-md-4 {
+     margin-left: 35%;
+     margin right: 35%;
+}
+.col{
+  height: 30vh;
+}
+.test-box {
+  border: 2px solid #F2F0F7  ;
+  padding: 30px;
+  margin: 20px;
+  background-color: white;
+}
+.text {
+  color: #464549;
+  font-family: fantasy;
+
+
+}
+p.text{
+  font-size: 18px
+}
+.test-box {
+  border: 2px solid #F2F0F7  ;
+  padding: 30px;
+  margin: 40px;
+  background-color: white;
+}
+.text2 {
+  color: #464549;
+  font-family: fantasy;
+
+
+
+}
+p.text2{
+  font-size: 18px
+}
+#drinks3{
+ float:right;
+ align-content: center;
+  }
+#texter{
+  float:left;
+}
+#sub {
+  background-image: url(../img/backgrounds/foodsBg.jpg);
+}
+
+#burger{
+  float:right;
+}
+#food{
+  float: right;
+  align-self: center;
+
+}
+#eat{
+  float: right;
+}
