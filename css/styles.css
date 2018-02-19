@@ -70,3 +70,6 @@ p.text2{
 #eat{
   float: right;
 }
+#second{
+  background-image: url(../img/backgrounds/subscribe.jpg);
+}
