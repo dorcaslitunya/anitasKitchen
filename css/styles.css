@@ -70,6 +70,35 @@ p.text2{
 #eat{
   float: right;
 }
-#second{
-  background-image: url(../img/backgrounds/subscribe.jpg);
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size:40px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+#happy{
+  background-color: #E0DEE1;
+  height: 10vh;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+}
+footer{
+  background-color: #F15A29;
+  height: 40vh;
+  background-position: center;
+  background-size: cover;
+
+}
+.subscribe{
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  height:50vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-bottom: -100px;
 }
